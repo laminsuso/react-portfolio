@@ -4,7 +4,7 @@ My Portfolio as a developer/designer built with React.
 
 <!-- ### [live preview](https://ubaimutl.github.io/react-portfolio/) -->
 
-![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)
+<!-- ![react portfoiio](src/assets/images/react%20portfolio%20gif.gif) -->
 
 ### Features
 
