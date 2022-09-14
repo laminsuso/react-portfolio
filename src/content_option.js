@@ -12,8 +12,7 @@ const introdata = {
     second: "I build websites",
     third: "I Architect cloud base applications",
   },
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+  description: "I design and code beautiful websites and I love what I do.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -24,19 +23,19 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "Online Support Supervisor",
+    where: "Delta AirLine",
+    date: "2018",
+  },
+  {
+    jobtitle: "Cloud Architec",
+    where: "Belle Fleur Technologies",
     date: "2020",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "Developer",
+    where: "Verizon Business Group",
+    date: "2021",
   },
 ];
 
@@ -67,17 +66,17 @@ const services = [
   {
     title: "UI & UX Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I value simple content structure, clean design patterns, and thoughtful interactions.",
   },
   {
-    title: "Cloud Apps",
+    title: "Cloud Native Architecture",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
   },
   {
     title: "Website Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I genuinely care about people, and love helping fellow designers work on their craft.",
   },
 ];
 
@@ -161,7 +160,7 @@ const contactConfig = {
   YOUR_EMAIL: "susolamin@gmail.com",
   YOUR_FONE: "(347)679-3972",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "Interested in working together? We should queue up a time to chat. I’ll buy the coffee.. ",
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
