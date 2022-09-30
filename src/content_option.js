@@ -94,17 +94,17 @@ const dataportfolio = [
   {
     img: "https://picsum.photos/400/?grayscale",
     desctiption: "Dog Adoption Center.",
-    link: "#",
+    link: "https://github.com/Bob-s-Adoption-Center/Frontend-Adoption-Center",
   },
   {
     img: "https://picsum.photos/400/600/?grayscale",
     desctiption: "Inventory Datebase.",
-    link: "#",
+    link: "https://github.com/Multiverse-Iventory-App/Blue-Team-Inventory-Database",
   },
   {
     img: "https://picsum.photos/400/300/?grayscale",
     desctiption: "World Culture API.",
-    link: "#",
+    link: "https://github.com/WorldWithAPI-Sparrow/World_Cultures_API_Backend",
   },
   {
     img: "https://picsum.photos/400/700/?grayscale",
