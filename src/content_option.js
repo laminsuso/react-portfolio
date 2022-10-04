@@ -13,7 +13,8 @@ const introdata = {
     third: "I Architect cloud base applications",
   },
   description: "I design and code beautiful websites and I love what I do.",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url:
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-npxfv&psig=AOvVaw1vJJbb6oEVhsPplEsTxbRG&ust=1664644060562000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiOsMiAvfoCFQAAAAAdAAAAABAD",
 };
 
 const dataabout = {
