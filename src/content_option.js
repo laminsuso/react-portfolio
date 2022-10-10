@@ -10,7 +10,7 @@ const introdata = {
   animated: {
     first: "I love coding",
     second: "I build websites",
-    third: "I Architect cloud base applications",
+    third: "I Architect cloud base applications.",
   },
   description: "I design and code beautiful websites and I love what I do.",
   your_img_url:
@@ -29,7 +29,7 @@ const worktimeline = [
     date: "2018",
   },
   {
-    jobtitle: "Cloud Architec",
+    jobtitle: "Cloud Architech",
     where: "Belle Fleur Technologies",
     date: "2020",
   },
